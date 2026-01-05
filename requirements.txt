@@ -1,0 +1,10 @@
+pyTenable
+jinja2
+PyYAML
+requests
+pdfkit
+pandas
+requests>=2.31.0
+python-dotenv>=1.0.1
+pytenable>=1.6.0
+fpdf2>=2.7.8
